@@ -1,6 +1,10 @@
 # database
 
-A new Flutter project.
+A simple Flutter task app with hive database
+
+## ScreenShots
+
+
 
 ## Getting Started
 
