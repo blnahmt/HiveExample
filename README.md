@@ -1,10 +1,12 @@
-# database
+# HiveExample
 
-A simple Flutter task app with hive database
-
-## ScreenShots
+A simple task app with hive database
 
 
+## Screenshots
+
+![App Screenshot](/screenshots/1.png)
+![App Screenshot](/screenshots/2.png)
 
 ## Getting Started
 

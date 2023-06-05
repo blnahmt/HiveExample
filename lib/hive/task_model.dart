@@ -9,4 +9,8 @@ class Task extends HiveObject {
 
   @HiveField(1)
   late DateTime date;
+
+  @HiveField(2)
+  late bool isDone;
+
 }
