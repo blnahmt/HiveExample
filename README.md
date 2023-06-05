@@ -8,7 +8,7 @@ A simple task app with hive database
 ![App Screenshot](/screenshots/1.png)
 ![App Screenshot](/screenshots/2.png)
 
-## Getting Started Deneme
+## Getting Started
 
 This project is a starting point for a Flutter application.
 
